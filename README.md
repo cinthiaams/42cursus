@@ -1,2 +1,2 @@
-# 42cursus
-42 projects
+# 42cursus 
+## 42 projects
